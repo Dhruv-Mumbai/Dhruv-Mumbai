@@ -37,13 +37,10 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
+  <a href="https://linkedin.com/in/dhruvshah2002/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-handle" target="blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="dhruvshah122002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
